@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @collinsmakamu95
 - 👀 I’m interested in creating software 
-- 🌱 I’m currently learning flutter
+- 🌱 Proficient in flutter  & Javascript 
 - 💞️ I’m looking to collaborate on any software project
 - 📫 How to reach me on twitter @CollinsMakamu
 
